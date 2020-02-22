@@ -4,6 +4,8 @@ Made during the course "Modern HTML & CSS from the Beginning" on Udemy by Brad T
 
 https://www.udemy.com/course/modern-html-css-from-the-beginning
 
+### Live Demo: https://demo.archet.no/newsgrid
+
 > ## Topic: Learning to use Grid
 
-![EdgeLedger](https://demo.archet.no/img/newsgrid.png 'EdgeLedger')
+![NewsGrid](https://demo.archet.no/img/newsgrid.png 'NewsGrid')
